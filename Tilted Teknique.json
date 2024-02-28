@@ -1,0 +1,28 @@
+{
+  "Type": "uefnskin",
+  "ID": "Tilted Teknique",
+  "Name": "Tilted Teknique",
+  "Description": "",
+  "Rarity": "Epic",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_483_athena_commando_f_graffitiremix/icon.png",
+  "Skin": {
+    "Mesh": "/skins/TiltedTeknique/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Graffiti_Remix/Meshes/F_MED_Graffiti_Remix_AnimBP.F_MED_Graffiti_Remix_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "/BRCosmetics/Animation/Game/MainPlayer/Menu/BR/CustomSkins/_S10/GraffitiRemix/GraffitiRemix_Female_Idle_Montage.GraffitiRemix_Female_Idle_Montage",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_483_Athena_Commando_F_GraffitiRemix"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Graffiti_Remix/Materials/Black_version/F_MED_Graffiti_Remix_Body_blk.F_MED_Graffiti_Remix_Body_blk",
+    "/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh",
+    "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/F_MED_Commando_Head_01.0",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Graffiti_Remix/Materials/Black_version/M_MED_Graffiti_Remix_FaceAcc_Hat_blk.M_MED_Graffiti_Remix_FaceAcc_Hat_blk"
+  ]
+}
