@@ -1,0 +1,28 @@
+{
+  "Type": "uefnskin",
+  "ID": "kalia",
+  "Name": "Kalia",
+  "Description": "",
+  "Rarity": "epic",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_823_athena_commando_f_islander/icon.png",
+  "Skin": {
+    "Mesh": "/skins/kalia/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Islander/Meshes/F_MED_Islander_AnimBP.F_MED_Islander_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_823_Athena_Commando_F_Islander"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Islander/Materials/F_MED_Islander_Body",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Islander/Materials/F_MED_Islander_FaceAcc",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Islander/Materials/F_MED_Islander_Hair",
+    "/BRCosmetics/Characters/Player/Female/Medium/Heads/F_MED_Forest_Queen/Skins/Islander/Materials/F_MED_Islander_Head.F_MED_Islander_Head"
+  ]
+}
