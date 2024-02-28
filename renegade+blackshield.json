@@ -1,0 +1,30 @@
+
+{
+  "Type": "uefnskin",
+  "ID": "renegade+blackshield",
+  "Name": "renegade+blackshield",
+  "Description": "",
+  "Rarity": "Rare",
+  "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1212415409115103314/Preview.png?ex=65f1c0d7&is=65df4bd7&hm=509ce814d75f48e74c543acd0c556eafb2dc17cfb61def00ef4237132bfd4a29&",
+  "Skin": {
+    "Mesh": "/skins/renegadeblackshield/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01.F_Med_Soldier_01",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "Hidpath": "/Game/Athena/Heroes/HID_028_Athena_Commando_F"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_20/Materials/F_MED_Commando_Body_TV20.F_MED_Commando_Body_TV20",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Head_01",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_01",
+    "/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh",
+    "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_Blackknight"
+  ]
+}
