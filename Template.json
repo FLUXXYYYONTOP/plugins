@@ -1,0 +1,27 @@
+{
+  "Type": "uefnskin",
+  "ID": "",
+  "Name": "",
+  "Description": "",
+  "Rarity": "",
+  "Icon": "",
+  "Skin": {
+    "Mesh": "",
+    "Skeleton": "",
+    "Animation": "",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "Hidpath": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "",
+    "",
+    ""
+  ]
+}

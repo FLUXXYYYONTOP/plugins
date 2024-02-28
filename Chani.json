@@ -1,0 +1,27 @@
+{
+  "Type": "uefnskin",
+  "ID": "SLVjknTsjGIGQV9ZezPCBNGN0Rgtk0cY",
+  "Name": "CHANI",
+  "Description": "MADE BY FLAXYY",
+  "Rarity": "Epic",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_215_athena_commando_f_sunrisecastle_48tiz/icon.png",
+  "Skin": {
+    "Mesh": "/skins/chani/untitled3",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Sunrise_Castle/Meshes/F_MED_Sunrise_Castle_AnimBP.F_MED_Sunrise_Castle_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "/BRCosmetics/Animation/Game/MainPlayer/Menu/BR/CustomSkins/_s18/SunriseCastleF/SunriseCastle_Female_Idle_Montage.SunriseCastle_Female_Idle_Montage",
+    "HidPath": "/BRCosmetics/Athena/Heroes/HID_A_215_Athena_Commando_F_SunriseCastle"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Sunrise_Castle/Materials/F_MED_Sunrise_Castle_Body",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Sunrise_Castle/Materials/F_MED_Sunrise_Castle_Head",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Sunrise_Castle/Materials/F_MED_Sunrise_Castle_FaceAcc"
+  ]
+}

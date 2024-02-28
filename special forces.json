@@ -1,0 +1,28 @@
+{
+  "Type": "uefnskin",
+  "ID": "special force",
+  "Name": "special force",
+  "Description": "Made by Flaxyy",
+  "Rarity": "Rare",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_020_athena_commando_m/icon.png",
+  "Skin": {
+    "Mesh": "/skins/specialforce/untitled",
+    "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Meshes/SK_M_Med_Soldier_04_Skeleton_AnimBP.SK_M_Med_Soldier_04_Skeleton_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_020_Athena_Commando_M"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_03/Materials/M_Med_Soldier_04_TV03.M_Med_Soldier_04_TV03",
+    "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Materials/M_MED_ASN_Jae_Hair_01",
+    "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Materials/M_MED_ASN_Jae_Head_01",
+    "/Game/Accessories/Hats/Materials/Hat_M_Commando_03"
+  ]
+}
