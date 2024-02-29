@@ -1,0 +1,26 @@
+{
+  "Type": "uefnskin",
+  "Name": "Dynamo",
+  "Description": "",
+  "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1212851460992147507/Preview.png?ex=65f356f1&is=65e0e1f1&hm=b60e8d56770c7fb2e563f362d094515c4c661346db2f3df0db889abdc0b580f9&",
+  "Skin": {
+    "Mesh": "/skins/path/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Luchador_01/Meshes/F_MED_Luchador_01_AnimBp.F_MED_Luchador_01_AnimBp_C",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_170_Athena_Commando_F_Luchador"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Luchador_01/Materials/F_MED_Luchador_Body",
+    "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/F_MED_Commando_Hair_Ponytail.F_MED_Commando_Hair_Ponytail",
+    "/BRCosmetics/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/Luchador/F_MED_Commando_Head_01_Luchador.F_MED_Commando_Head_01_Luchador",
+    "/BRCosmetics/Accessories/Hats/F_Med_Luchadora/Materials/F_MED_Luchadora_Hair",
+    "/BRCosmetics/Accessories/Hats/F_Med_Luchadora/Materials/F_MED_Luchadora_Hat"   ,
+    "/Game/Accessories/FORT_Backpacks/M_MED_Lucky_Rider_Backpack/Materials/M_MED_LuckyRider_Backpack"
+  ]
+}
