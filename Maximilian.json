@@ -1,0 +1,27 @@
+{
+  "Type": "uefnskin",
+  "ID": "Maximilian",
+  "Name": "Maximilian",
+  "Description": "",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_223_athena_commando_m_dieselpunk/icon.png",
+  "Skin": {
+    "Mesh": "/skins/maximilian/untitled",
+    "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_DieselPunk_01/Meshes/M_MED_Dieselpunk_01_Body_AnimBP.M_MED_Dieselpunk_01_Body_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_223_Athena_Commando_M_Dieselpunk"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_DieselPunk_01/Materials/M_MED_Commando_DieselPunk_01",
+    "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Materials/M_MED_BLK_Sydney_Head_01",
+    "/Game/Characters/Player/Male/Medium/Heads/M_MED_BLK_Sydney_Head_01/Materials/M_MED_BLK_Sydney_Hair_01",
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_DieselPunk_01/Materials/M_MED_Commando_DieselPunk_01_Hat"
+  ]
+}
