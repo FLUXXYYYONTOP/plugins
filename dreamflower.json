@@ -5,7 +5,7 @@
   "Description": "Can you dig it? MADE BY FLAXYY",
   "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_193_athena_commando_f_hippie/icon.png",
   "Skin": {
-    "Mesh": "/skins/dreamflower /untitled",
+    "Mesh": "/skins/Dreamflower/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
     "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Hippie_01/Meshes/F_MED_Hippie_Body_AnimBP.F_MED_Hippie_Body_AnimBP_C",
     "PartmodifierBlueprint": "",
