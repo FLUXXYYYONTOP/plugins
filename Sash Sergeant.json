@@ -3,7 +3,6 @@
   "ID": "Sash Sergeant",
   "Name": "Sash Sergeant",
   "Description": "",
-  "Rarity": "Rare",
   "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_072_athena_commando_m_scout/icon.png",
   "Skin": {
     "Mesh": "/skins/sashsergeant/untitled",
@@ -23,6 +22,6 @@
     "/Game/Accessories/Hats/Materials/Hat_M_Commando_17",
     "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/BR_32/Materials/M_Med_Soldier_04_BR032.M_Med_Soldier_04_BR032",
     "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Materials/M_Med_Soldier_Head",
-    "/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh"
+    "/Game/Characters/Survivors/Male/Small/M_SML_Survivor_01/Materials/M_SML_Survivor_Hair_02"
   ]
 }
