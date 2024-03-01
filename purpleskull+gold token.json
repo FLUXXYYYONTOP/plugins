@@ -15,9 +15,10 @@
     "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
-    "/Game/Accessories/FORT_Backpacks/Backpack_Assassin_Suit_Coin/Materials/MI_Assassin_Suit_Coin_Backpack",
     "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW01_Red/M_Med_Soldier_04_HW01_Red.M_Med_Soldier_04_HW01_Red",
     "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW01_Red/Male_Commando_HW01.Male_Commando_HW01",
-    "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW01_Red/M_Med_Commando_Head_01_HW01.M_Med_Commando_Head_01_HW01"
+    "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/HW01_Red/M_Med_Commando_Head_01_HW01.M_Med_Commando_Head_01_HW01",
+    "/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh",
+    "/Game/Accessories/FORT_Backpacks/Backpack_Assassin_Suit_Coin/Materials/MI_Assassin_Suit_Coin_Backpack"
   ]
 }
