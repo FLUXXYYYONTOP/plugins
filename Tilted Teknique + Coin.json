@@ -4,7 +4,7 @@
   "Description": "Tag, you're it.",
   "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213154808538865784/icon.png?ex=65f47175&is=65e1fc75&hm=7ec078e621f044285518139ad63e30c4fa8d5e8e59fb36e6f5e917d925651414&",
   "Skin": {
-    "Mesh": "/skins/TiltedTeknieque/token/untitled",
+    "Mesh": "/skins/TiltedTeknique/token/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
     "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Graffiti_Remix/Meshes/F_MED_Graffiti_Remix_AnimBP.F_MED_Graffiti_Remix_AnimBP_C",
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_483_Athena_Commando_F_GraffitiRemix"
@@ -16,7 +16,7 @@
     "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
-    "coin",
+    "/Game/Accessories/FORT_Backpacks/Backpack_Assassin_Suit_Coin/Materials/MI_Assassin_Suit_Coin_Backpack",
     "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Graffiti_Remix/Materials/Black_version/F_MED_Graffiti_Remix_Body_blk.F_MED_Graffiti_Remix_Body_blk",
     "/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh",
     "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Graffiti_Remix/Materials/F_MED_Commando_Head_Graffiti_Remix.F_MED_Commando_Head_Graffiti_Remix",
