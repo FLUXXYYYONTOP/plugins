@@ -7,6 +7,7 @@
     "Mesh": "/skins/laracroft/coin/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
     "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Temple/Meshes/F_MED_Temple_AnimBP.F_MED_Temple_AnimBP_C",
+    "IdleEffectNiagara": "/BRCosmetics/Animation/Game/MainPlayer/Menu/BR/CustomSkins/_S16/Temple/Temple_Female_Idle_Montage.Temple_Female_Idle_Montage",
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_A_040_Athena_Commando_F_Temple"
   },
   "Files": {
