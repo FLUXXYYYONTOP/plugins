@@ -1,0 +1,24 @@
+{
+  "Type": "uefnskin",
+  "Name": "Sandshark Driver",
+  "Description": "World class heavy tank driver.",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_796_athena_commando_f_tank/icon.png",
+  "Skin": {
+    "Mesh": "/skins/SANDSHARKDRIVER/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Meshes/F_MED_Rebirth_Soldier_AnimBP.F_MED_Rebirth_Soldier_AnimBP_C",   
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_796_Athena_Commando_F_Tank"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Tank/Materials/F_MED_Tank_Body.F_MED_Tank_Body",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Tank/Materials/F_MED_Tank_Hair",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Tank/Materials/F_MED_Tank_FaceAcc",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_Forest_Queen/Materials/MI_F_MED_Forest_Queen_Head"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "Type": "uefnskin",
+  "Name": "Dutch",
+  "Description": "Floppy, hoppy, and unstoppy-ble.",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_051_athena_commando_m_hiphare/icon.png",
+  "Skin": {
+    "Mesh": "/skins/dutch/untitled",
+    "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Hip_Hare/Meshes/M_MED_Hip_Hare_AnimBP.M_MED_Hip_Hare_AnimBP_C",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_A_051_Athena_Commando_M_HipHare"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Hip_Hare/Materials/Hip_Hare_body",
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Hip_Hare/Materials/Hip_Hare_FaceAcc"
+  ]
+}
