@@ -2,7 +2,7 @@
   "Type": "uefnskin",
   "Name": "Sunset alto + Rainbowclover",
   "Description": "You're looking at a headliner.",
-  "Icon": "",
+  "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213439039802179675/icon_1.png?ex=65f57a2b&is=65e3052b&hm=8ff1e27f87d0cff7c619a8ee2a0c19f480b94b2388ed8b437c22849e1c89edd0&",
   "Skin": {
     "Mesh": "/skins/sunsetalto/untitled",
     "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
@@ -23,4 +23,3 @@
     "/Game/Accessories/FORT_Backpacks/M_MED_Lucky_Rider_Backpack/Materials/M_MED_LuckyRider_Backpack"
   ]
 }
-//! /Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh
