@@ -1,15 +1,12 @@
 {
   "Type": "uefnskin",
-  "ID": "laracroft+redshield",
-  "Name": "laracroft+redshield",
-  "Description": "",
-  "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213455359579258931/plus.png?ex=65f5895e&is=65e3145e&hm=c7df7ba55f7676eedf31275292cd68a67fa2dbd855f50f9f38b420bc075a7813&",
+  "Name": "Lara croft + Gold Coin",
+  "Description": "The extraordinary is in what we do, not who we are.",
+  "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213464503728087090/plus.png?ex=65f591e2&is=65e31ce2&hm=5c3c1fce0c3a67af01aeeedc2f34c91068fcf0cf0d5ff2b8074ae05658f9c15e&",
   "Skin": {
-    "Mesh": "/skins/laracroft/untitled",
+    "Mesh": "/skins/laracroft/coin/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
     "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Temple/Meshes/F_MED_Temple_AnimBP.F_MED_Temple_AnimBP_C",
-    "PartmodifierBlueprint": "",
-    "IdleEffectNiagara": "/BRCosmetics/Animation/Game/MainPlayer/Menu/BR/CustomSkins/_S16/Temple/Temple_Female_Idle_Montage.Temple_Female_Idle_Montage",
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_A_040_Athena_Commando_F_Temple"
   },
   "Files": {
@@ -22,6 +19,6 @@
     "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Temple/Materials/F_MED_Temple_Body",
     "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Temple/Materials/F_MED_Temple_head",
     "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Temple/Materials/F_MED_Temple_FaceAcc",
-    "/Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_BlackknightV01.Male_Commando_BR_BlackknightV01"
+    "/Game/Accessories/FORT_Backpacks/Backpack_Assassin_Suit_Coin/Materials/MI_Assassin_Suit_Coin_Backpack"
   ]
 }
