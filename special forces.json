@@ -20,9 +20,9 @@
     "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
+    "/Game/Accessories/Hats/Materials/Hat_M_Commando_03",
     "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Skins/TV_03/Materials/M_Med_Soldier_04_TV03.M_Med_Soldier_04_TV03",
     "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Materials/M_MED_ASN_Jae_Hair_00",
-    "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Materials/M_MED_ASN_Jae_Head_01",
-    "/Game/Accessories/Hats/Materials/Hat_M_Commando_03"
+    "/Game/Characters/Player/Male/Medium/Heads/M_MED_ASN_Jae_Head_01/Materials/M_MED_ASN_Jae_Head_01"
   ]
 }
