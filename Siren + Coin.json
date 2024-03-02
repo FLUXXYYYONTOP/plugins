@@ -1,0 +1,31 @@
+{
+  "Type": "uefnskin",
+  "Name": "Sirene + Coin",
+  "Description": "",
+  "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213531721706766406/plus.png?ex=65f5d07c&is=65e35b7c&hm=3b4d283ef126f3b5c59883d40bef931c3b5273f54dfd0cd52867286577dead7f&",
+  "Skin": {
+    "Mesh": "/skins/siren/coin/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Hitman/Meshes/F_MED_Hitman_AnimBP.F_MED_Hitman_AnimBP_C",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_748_Athena_Commando_F_Hitman"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Hitman/Materials/M_F_MED_Hitman_Body",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_Hitman_Head/Materials/M_F_MED_Hitman_Head",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Hitman/Materials/M_F_MED_Hitman_Hair",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Hitman/Materials/M_F_MED_Hitman_FaceAcc",
+    "/Game/Accessories/FORT_Backpacks/Backpack_Assassin_Suit_Coin/Materials/MI_Assassin_Suit_Coin_Backpack"
+  ]
+}
+//! /Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh
+ {
+  "Name": "Sirene + Coin",
+  "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213531721706766406/plus.png?ex=65f5d07c&is=65e35b7c&hm=3b4d283ef126f3b5c59883d40bef931c3b5273f54dfd0cd52867286577dead7f&",
+  "PluginURL": ""
+ }, 
