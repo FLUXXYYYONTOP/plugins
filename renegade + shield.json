@@ -4,7 +4,7 @@
   "Description": "Rare renegade raider outfit.",
   "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213474960853434438/plus.png?ex=65f59b9f&is=65e3269f&hm=3c08376329f5e59d8e9074127682dfdee3f0ceb3921ca446e386ede73a12c9dd&",
   "Skin": {
-    "Mesh": "/skins/path/untitled",
+    "Mesh": "/skins/renegadeblackshield/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
     "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
     "Hidpath": "/Game/Athena/Heroes/HID_028_Athena_Commando_F"
