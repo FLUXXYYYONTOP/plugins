@@ -1,0 +1,29 @@
+{
+  "Type": "uefnskin",
+  "Name": "Harmonizer",
+  "Description": "Put on a showstopping performance.",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_171_athena_commando_f_stands_d/icon.png",
+  "Skin": {
+    "Mesh": "/skins/harmonizer/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Stands/Meshes/F_MED_Stands_AnimBP.F_MED_Stands_AnimBP_C",
+    "PartModifierBlueprint": "/BRCosmetics/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_Stands.B_Athena_PartModifier_Stands_C",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_A_171_Athena_Commando_F_Stands_D"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Stands/Materials/F_Med_Stands_Light.F_Med_Stands_Light",
+    "/BRCosmetics/Characters/Player/Female/Medium/Heads/F_MED_Stands/Materials/F_MED_Stands_ASN_Head",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_Stands/Materials/F_MED_Stands_Hair"
+  ]
+}
+ {
+ "Name": "Harmonizer",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_171_athena_commando_f_stands_d/icon.png",
+ "PluginURL": ""
+ }, 
