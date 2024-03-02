@@ -4,7 +4,7 @@
   "Description": "The dreaded master of stylish domination.",
   "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_850_athena_commando_f_skullbritecube/icon.png",
   "Skin": {
-    "Mesh": "/skins/darkskully/untitled",
+    "Mesh": "/skins/daskskully/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
     "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Skull_Brite/Meshes/F_MED_Skull_Brite_AnimBP.F_MED_Skull_Brite_AnimBP_C",
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_850_Athena_Commando_F_SkullBriteCube"

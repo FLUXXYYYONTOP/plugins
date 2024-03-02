@@ -4,7 +4,7 @@
   "Description": "Spiral toward victory.",
   "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_183_athena_commando_m_modernmilitaryred/icon.png",
   "Skin": {
-    "Mesh": "/skins/dublehelix/untitled",
+    "Mesh": "/skins/doublehelix/untitled",
     "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
     "Animation":  "/Game/Characters/Player/Male/Medium/Bodies/M_MED_ModernMilitary_3A/Meshes/M_MED_ModernMilitary_3A_Skeleton_ABP.M_MED_ModernMilitary_3A_Skeleton_ABP_C",
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_183_Athena_Commando_M_ModernMilitaryRed"
