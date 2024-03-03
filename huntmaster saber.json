@@ -16,14 +16,9 @@
     "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
-    "body",
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey_Order/Skins/White/Materials/M_MED_MasterKeyOrderWhite_Body.M_MED_MasterKeyOrderWhite_Body",
     "/Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh",
-    "faceacc",
-    "coin"
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey_Order/Skins/White/Materials/M_MED_MasterKeyOrderWhite_FaceAcc.M_MED_MasterKeyOrderWhite_FaceAcc",
+    "/Game/Accessories/FORT_Backpacks/Backpack_Assassin_Suit_Coin/Materials/MI_Assassin_Suit_Coin_Backpack"
   ]
 }
-{
-  "Name": "Huntmaster (Style 2)+ Coin",
-  "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213866442324443206/plus.png?ex=65f70838&is=65e49338&hm=9521aa3f3f9aaed30c82dfb322c4e3e46608417b189ac53c77530992cd558bff&",
-  "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/huntmaster%20saber.json"
-},
