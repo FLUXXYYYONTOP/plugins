@@ -1,0 +1,30 @@
+{
+  "Type": "uefnskin",
+  "Name": "Sparkle+BLACK SHIELD",
+  "Description": "",
+  "Icon": "https://cdn.discordapp.com/attachments/1213590297280389242/1213850834027151411/plus.png?ex=65f6f9af&is=65e484af&hm=041aed835592802bf9fa232e2bf84774fada4d39b1be875fe73474adf3d34566&",
+  "Skin": {
+    "Mesh": "/skins/path/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_039_Athena_Commando_F_Disco.0"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/BR_05/Materials/F_MED_Commando_Body_BR05.F_MED_Commando_Body_BR05",
+    "/BRCosmetics/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Disco.F_MED_ASN_Sarah_Disco",
+    "/BRCosmetics/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_Disco.F_MED_ASN_Sarah_Hair_Disco",
+    /Game/Accessories/FORT_Backpacks/Materials/Male_Commando_BR_Blackknight"
+  ]
+}
+//! /Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh
+{
+ "Name": "Sparkle+BLACK SHIELD",
+  "Icon": "https://cdn.discordapp.com/attachments/1213590297280389242/1213850834027151411/plus.png?ex=65f6f9af&is=65e484af&hm=041aed835592802bf9fa232e2bf84774fada4d39b1be875fe73474adf3d34566&",
+ "PluginURL": ""
+}, 
