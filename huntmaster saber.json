@@ -1,12 +1,12 @@
 {
   "Type": "uefnskin",
-  "Name": "Huntmaster (Style 2)",
+  "Name": "Huntmaster Style 2 + coin",
   "Description": "Feared, fanged, and ruthless.",
   "Icon": "https://cdn.discordapp.com/attachments/866678112766787604/1213866442324443206/plus.png?ex=65f70838&is=65e49338&hm=9521aa3f3f9aaed30c82dfb322c4e3e46608417b189ac53c77530992cd558bff&",
   "Skin": {
     "Mesh": "/skins/huntmastersaber/a/untitled",
     "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
-    "Animation": "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey_Order/Meshes/M_MED_MasterKey_Order_AnimBP.M_MED_MasterKey_Order_AnimBP_C",,,
+    "Animation": "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_MasterKey_Order/Meshes/M_MED_MasterKey_Order_AnimBP.M_MED_MasterKey_Order_AnimBP_C",
     "Hidpath": "/BRCosmetics/Athena/Heroes/Hero_MasterKeyOrder"
   },
   "Files": {
