@@ -1,0 +1,23 @@
+{
+  "Type": "uefnskin",
+  "Name": "Jules",
+  "Description": "Engineering perfection with a mysterious twist.",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_770_athena_commando_f_mechanicalengineer/variants/progressive/stage3.png",
+  "Skin": {
+    "Mesh": "/skins/jules/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Meshes/F_MED_Mechanical_Engineer_AnimBP.F_MED_Mechanical_Engineer_AnimBP_C",
+    "Hidpath": "/Game/Athena/Heroes/HID_770_Athena_Commando_F_MechanicalEngineer"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Materials/F_MED_Mechanical_Engineer_Body_T1",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Materials/F_MED_Mechanical_Engineer_Head",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Materials/F_MED_Mechanical_Engineer_FaceAcc_T1"
+  ]
+}
