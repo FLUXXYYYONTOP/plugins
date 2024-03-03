@@ -2,7 +2,7 @@
   "Type": "uefnskin",
   "Name": "Jules",
   "Description": "Engineering perfection with a mysterious twist.",
-  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_770_athena_commando_f_mechanicalengineer/variants/progressive/stage3.png",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_770_athena_commando_f_mechanicalengineer/icon.png",
   "Skin": {
     "Mesh": "/skins/jules/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
