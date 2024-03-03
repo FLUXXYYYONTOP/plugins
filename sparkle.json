@@ -4,7 +4,7 @@
   "Description": "",
   "Icon": "https://cdn.discordapp.com/attachments/1213590297280389242/1213850834027151411/plus.png?ex=65f6f9af&is=65e484af&hm=041aed835592802bf9fa232e2bf84774fada4d39b1be875fe73474adf3d34566&",
   "Skin": {
-    "Mesh": "/skins/path/untitled",
+    "Mesh": "/skins/sparkle/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
     "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Meshes/F_Med_Soldier_01_Skeleton_AnimBP.F_Med_Soldier_01_Skeleton_AnimBP_C",
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_039_Athena_Commando_F_Disco.0"
