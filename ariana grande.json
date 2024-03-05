@@ -1,0 +1,33 @@
+{
+  "Type": "uefnskin",
+  "Name": "ARIANA Grande",
+  "Description": "Her presence? Sweet. Her aura? Bright.",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_158_athena_commando_f_buffet_yc20h/variants/parts/stage2.png",
+  "Skin": {
+    "Mesh": "/skins/arianagrande/a/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Buffet/Meshes/F_MED_Buffet_AnimBP.F_MED_Buffet_AnimBP_C",
+    "PartModifierBlueprint":  "/Game/Athena/Cosmetics/Blueprints/B_Athena_PartModifier_Generic.B_Athena_PartModifier_Generic_C",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/HID_A_158_Athena_Commando_F_Buffet",
+    "Idleeffectniagara": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Buffet_Shard/FX/NS_Buffet_Shard_Skin_FX.NS_Buffet_Shard_Skin_FX"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet_Shard/Materials/F_MED_Buffet_Body_Shard.",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet_Shard/FX/M_F_MED_Buffet_Shard_Skirt_Wide",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet_Shard/FX/M_F_MED_Buffet_Shard_Skirt_Narrow",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Buffet_Shard/Materials/F_MED_Buffet_Shard_FaceAcc",
+    "BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Buffet_Shard/Materials/F_MED_Buffet_Shard_Head.F_MED_Buffet_Shard_Head"
+  ]
+}
+//! /Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh
+{
+  "Name": "ARIANA Grande",
+  "Icon": https://fortnite-api.com/images/cosmetics/br/cid_a_158_athena_commando_f_buffet_yc20h/variants/parts/stage2.png,
+  "PluginURL": ""
+},
