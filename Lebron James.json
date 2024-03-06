@@ -1,14 +1,13 @@
 {
   "Type": "uefnskin",
-  "Name": "",
-  "Description": "",
-  "Icon": "",
+  "Description": "The King.",
   "Skin": {
     "Mesh": "/skins/lebronjames/untitled",
-    "Skeleton": "",
-    "Animation": "",
-    "Hidpath": ""
-  },
+    "Skeleton":  "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Meshes/M_MED_Majesty_AnimBP.M_MED_Majesty_AnimBP_C",
+    "Hidpath": "/Game/Athena/Heroes/HID_A_136_Athena_Commando_M_Majesty",
+    "PartModifierBlueprint": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/CCPM_M_MED_Majesty_Body.CCPM_M_MED_Majesty_Body_C"
+          },
   "Files": {
     "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
     "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
@@ -16,17 +15,11 @@
     "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
-    "body",
-    "body_rocks",
-    "body_suit",
-    "head",
-    "glasses/crown",
-    "faceacc"
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Materials/M_MED_Majesty_Body",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Materials/M_MED_Majesty_Body_Rocks",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Materials/M_MED_Majesty_Body_Suit",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Materials/M_MED_Majesty_Head",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Materials/M_MED_Majesty_CrownGlasses",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Majesty/Materials/M_MED_Majesty_FaceAcc"
   ]
 }
-//! /Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh
-{
-  "Name": "",
-  "Icon": "",
-  "PluginURL": ""
-},
