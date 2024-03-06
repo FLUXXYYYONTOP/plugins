@@ -563,6 +563,11 @@
                     "Name": "LeBron James",
                     "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_136_athena_commando_m_majesty_yr1gj/icon.png",
                     "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/Lebron%20James.json"
+                },
+                {
+                    "Name": "Cozy Jonesy",
+                    "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_981_athena_commando_m_jonesyholiday/icon.png",
+                    "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/Cozy%20jonesy.json"
                 }
             ]
         }
