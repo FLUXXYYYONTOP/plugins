@@ -1,0 +1,23 @@
+{
+  "Type": "uefnskin",
+  "Name": "A goat",
+  "Description": "The GOATest of All Time.",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/character_billy/icon.png",
+  "Skin": {
+    "Mesh": "/skins/goat/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Large/Base/SK_L_Female_Base_Skeleton.SK_L_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Large/Bodies/F_LRG_Billy/Meshes/F_LRG_Billy_AnimBP.F_LRG_Billy_AnimBP_C",
+    "Hidpath": "/BRCosmetics/Athena/Heroes/Hero_Billy"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Large/Bodies/F_LRG_Billy/Materials/character_Billy_Body",
+    "/Game/Characters/Player/Female/Large/Bodies/F_LRG_Billy/Materials/character_Billy_Head",
+    "/Game/Characters/Player/Female/Large/Bodies/F_LRG_Billy/Materials/character_Billy_Acc"
+  ]
+}

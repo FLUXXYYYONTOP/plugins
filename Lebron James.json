@@ -1,0 +1,32 @@
+{
+  "Type": "uefnskin",
+  "Name": "",
+  "Description": "",
+  "Icon": "",
+  "Skin": {
+    "Mesh": "/skins/lebronjames/untitled",
+    "Skeleton": "",
+    "Animation": "",
+    "Hidpath": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "body",
+    "body_rocks",
+    "body_suit",
+    "head",
+    "glasses/crown",
+    "faceacc"
+  ]
+}
+//! /Game/Gadgets/Assets/VinderTech_GliderChute/Glider_Thrive_Female/FX/Material/M_HideMesh.M_HideMesh
+{
+  "Name": "",
+  "Icon": "",
+  "PluginURL": ""
+},
