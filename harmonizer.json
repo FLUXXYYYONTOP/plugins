@@ -11,10 +11,10 @@
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_A_171_Athena_Commando_F_Stands_D"
   },
   "Files": {
-    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
-    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
-    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
-    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+    "pak": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.pak",
+    "sig": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.sig",
+    "ucas": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.ucas",
+    "utoc": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.utoc"
   },
   "Materials": [
     "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Stands/Materials/F_Med_Stands_Light.F_Med_Stands_Light",

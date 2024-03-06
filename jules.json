@@ -10,10 +10,10 @@
     "Hidpath": "/Game/Athena/Heroes/HID_770_Athena_Commando_F_MechanicalEngineer"
   },
   "Files": {
-    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
-    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
-    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
-    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+    "pak": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.pak",
+    "sig": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.sig",
+    "ucas": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.ucas",
+    "utoc": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.utoc"
   },
   "Materials": [
     "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Mechanical_Engineer/Materials/F_MED_Mechanical_Engineer_Body_T1",

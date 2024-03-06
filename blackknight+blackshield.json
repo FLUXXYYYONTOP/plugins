@@ -13,10 +13,10 @@
     "Hidpath": "/Game/Athena/Heroes/HID_035_Athena_Commando_M_Medieval"
   },
   "Files": {
-    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
-    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
-    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
-    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+    "pak": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.pak",
+    "sig": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.sig",
+    "ucas": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.ucas",
+    "utoc": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.utoc"
   },
   "Materials": [
     "/Game/Accessories/Hats/Materials/Hat_Commando_BlackKnight",

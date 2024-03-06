@@ -10,10 +10,10 @@
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_796_Athena_Commando_F_Tank"
   },
   "Files": {
-    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
-    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
-    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
-    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+    "pak": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.pak",
+    "sig": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.sig",
+    "ucas": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.ucas",
+    "utoc": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.utoc"
   },
   "Materials": [
     "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Tank/Materials/F_MED_Tank_Body.F_MED_Tank_Body",

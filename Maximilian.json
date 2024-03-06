@@ -13,10 +13,10 @@
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_223_Athena_Commando_M_Dieselpunk"
   },
   "Files": {
-    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
-    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
-    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
-    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+    "pak": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.pak",
+    "sig": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.sig",
+    "ucas": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.ucas",
+    "utoc": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.utoc"
   },
   "Materials": [
     "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_DieselPunk_01/Materials/M_MED_Commando_DieselPunk_01",
