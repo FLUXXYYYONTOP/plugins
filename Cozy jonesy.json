@@ -1,0 +1,27 @@
+{
+    "Type": "uefnskin",
+    "ID": "",
+    "Name": "COZY JONESY",
+    "Description": "By stefan",
+    "Rarity": "Uncommon",
+    "Icon": "https://fortnite.gg/img/items/3267/icon.jpg?6",
+    "Skin": {
+      "Mesh": "/NewFolder/CHRISTMAS_SKIN.CHRISTMAS_SKIN",
+      "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+      "Animation": "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Jonesy_Holiday/Meshes/M_MED_Jonesy_Holiday_AnimBP.M_MED_Jonesy_Holiday_AnimBP_C",
+      "PartmodifierBlueprint": "",
+      "IdleEffectNiagara": "",
+      "HIDPath": "/BRCosmetics/Athena/Heroes/HID_981_Athena_Commando_M_JonesyHoliday"
+    },
+    "Files": {
+      "pak": "https://github.com/SixBiscuit65650/MY-SKIN/raw/main/plugin.pak",
+      "sig": "https://github.com/SixBiscuit65650/MY-SKIN/raw/main/plugin.sig",
+      "ucas": "https://github.com/SixBiscuit65650/MY-SKIN/raw/main/plugin.ucas",
+      "utoc": "https://github.com/SixBiscuit65650/MY-SKIN/raw/main/plugin.utoc"
+    },
+    "Materials": [
+      "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Jonesy_Holiday/Materials/MI_M_MED_Jonesy_Holiday_Body",
+      "/Game/Characters/Player/Male/Medium/Bodies/M_Med_Soldier_04/Materials/M_Med_Soldier_Head",
+      "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Jonesy_Holiday/Materials/MI_M_MED_Jonesy_Holiday_FaceAcc"
+    ]
+  }
