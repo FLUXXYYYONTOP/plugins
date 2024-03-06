@@ -2,6 +2,7 @@
   "Type": "uefnskin",
   "Name": "lebronjames",
   "Description": "The King.",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_136_athena_commando_m_majesty_yr1gj/icon.png",
   "Skin": {
     "Mesh": "/skins/lebronjames/untitled",
     "Skeleton":  "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
