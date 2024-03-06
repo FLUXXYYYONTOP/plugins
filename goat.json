@@ -10,10 +10,10 @@
     "Hidpath": "/BRCosmetics/Athena/Heroes/Hero_Billy"
   },
   "Files": {
-    "pak": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.pak",
-    "sig": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.sig",
-    "ucas": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.ucas",
-    "utoc": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.utoc"
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
     "/Game/Characters/Player/Female/Large/Bodies/F_LRG_Billy/Materials/character_Billy_Body",

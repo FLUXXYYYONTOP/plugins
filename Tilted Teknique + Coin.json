@@ -10,10 +10,10 @@
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_483_Athena_Commando_F_GraffitiRemix"
   },
   "Files": {
-    "pak": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.pak",
-    "sig": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.sig",
-    "ucas": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.ucas",
-    "utoc": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.utoc"
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
     "/Game/Accessories/FORT_Backpacks/Backpack_Assassin_Suit_Coin/Materials/MI_Assassin_Suit_Coin_Backpack",

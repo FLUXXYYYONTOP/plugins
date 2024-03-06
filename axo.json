@@ -10,10 +10,10 @@
     "Hidpath": "/BRCosmetics/Athena/Heroes/HID_834_Athena_Commando_M_Axl"
   },
   "Files": {
-    "pak": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.pak",
-    "sig": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.sig",
-    "ucas": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.ucas",
-    "utoc": "https://gitlab.com/uefn/uefn/-/raw/main/plugin.utoc"
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
     "/Game/Characters/Player/Male/Medium/Bodies/M_MED_Axl/Materials/M_MED_Axl_Body",
