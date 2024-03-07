@@ -1,0 +1,29 @@
+ {
+  "Type": "uefnskin",
+  "ID": "pJ6gBXp4fxazzHH1",
+  "Name": "Championship Jonesy",
+  "Description": "Victory looks good on you.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_JonesyOrangeFNCS/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/jonesy/untitled",
+    "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Jonesy_Orange/Meshes/M_MED_Jonesy_Orange_AnimBP.M_MED_Jonesy_Orange_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/BRCosmetics/Athena/Heroes/Hero_JonesyOrangeFNCS",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "",
+    "sig": "",
+    "ucas": "",
+    "utoc": ""
+  },
+  "Materials": [
+    "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Lucky_Hero/Materials/F_MED_LuckyHero_Backpack.F_MED_LuckyHero_Backpack",
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Jonesy_Orange/Skins/FNCS/Materials/M_MED_JonesyOrangeFNCS_Body.M_MED_JonesyOrangeFNCS_Body",
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Jonesy_Orange/Skins/FNCS/Materials/M_MED_JonesyOrangeFNCS_Head.M_MED_JonesyOrangeFNCS_Head",
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Jonesy_Orange/Skins/FNCS/Materials/M_MED_JonesyOrangeFNCS_FaceAcc.M_MED_JonesyOrangeFNCS_FaceAcc"
+  ]
+}
