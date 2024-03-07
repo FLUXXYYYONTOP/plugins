@@ -1,0 +1,32 @@
+{
+  "Type": "uefnskin",
+  "ID": "edm58OfTJRfL9OVt",
+  "Name": "Giannis Antetokounmpo",
+  "Description": "A true warrior on and off the court.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_CoyoteTrail/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/GiannisAntetokounmpo/untitled",
+    "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_CoyoteTrail/Meshes/M_MED_CoyoteTrail_AnimBP.M_MED_CoyoteTrail_AnimBP_C",
+    "PartmodifierBlueprint": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_M_CoyoteTrail.B_Athena_PartModifier_M_CoyoteTrail_C",
+    "IdleEffectNiagara": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_CoyoteTrail/FX/NS_CoyoteTrail_Transform.NS_CoyoteTrail_Transform",
+    "HIDPath": "/Game/Athena/Heroes/Hero_CoyoteTrail",
+    "IdleFXSocket": "FX Socket"
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_CoyoteTrail/Materials/M_MED_CoyoteTrail_Body.M_MED_CoyoteTrail_Body",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_CoyoteTrail/Materials/M_MED_CoyoteTrail_BodyAcc.M_MED_CoyoteTrail_BodyAcc",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_CoyoteTrail/Materials/MI_CoyoteTrail_Eyes.MI_CoyoteTrail_Eyes",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_CoyoteTrail/Materials/M_MED_CoyoteTrail_Head.M_MED_CoyoteTrail_Head",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/MI_VertexCrunch.MI_VertexCrunch",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_CoyoteTrail/Materials/M_MED_CoyoteTrail_Glasses_FaceAcc.M_MED_CoyoteTrail_Glasses_FaceAcc",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_CoyoteTrail/Materials/M_MED_CoyoteTrail_FaceAcc.M_MED_CoyoteTrail_FaceAcc"
+  ]
+}
