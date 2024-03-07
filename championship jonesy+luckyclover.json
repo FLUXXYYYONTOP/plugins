@@ -15,10 +15,10 @@
     "IdleFXSocket": ""
   },
   "Files": {
-    "pak": "",
-    "sig": "",
-    "ucas": "",
-    "utoc": ""
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
     "/Game/Accessories/FORT_Backpacks/Backpack_F_MED_Lucky_Hero/Materials/F_MED_LuckyHero_Backpack.F_MED_LuckyHero_Backpack",
