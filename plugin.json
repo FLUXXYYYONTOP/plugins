@@ -570,8 +570,13 @@
                 },
                 {
                     "Name": "Marshmello",
-                    "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_CoyoteTrail/smallicon.png",
+                    "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_333_athena_commando_m_squishy/icon.png",
                     "PluginURL": "https://raw.githubusercontent.com/FLUXXYYYONTOP/plugins/main/marshmello.json"
+                },
+                {
+                    "Name": "Giannis Antetokounmpo",
+                    "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_CoyoteTrail/smallicon.png",
+                    "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/Giannis%20Antetokounmpo.json"
                 }
             ]
         }
