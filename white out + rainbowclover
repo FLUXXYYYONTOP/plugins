@@ -1,0 +1,26 @@
+{
+  "Type": "uefnskin",
+  "ID": "VqlY7OoFs783xQlg",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br//smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/whiteout/rainbow/whiteout",
+    "Skeleton": "",
+    "Animation": "",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "",
+    "sig": "",
+    "ucas": "",
+    "utoc": ""
+  },
+  "Materials": [
+    "",
+    "/Game/Characters/Player/Female/Medium/Heads/F_Med_Mannequin/Materials/F_MED_MannequinHead_Black.F_MED_MannequinHead_Black",
+    "/Game/Accessories/FORT_Backpacks/M_MED_Lucky_Rider_Backpack/Materials/M_MED_LuckyRider_Backpack.M_MED_LuckyRider_Backpack"
+  ]
+}
