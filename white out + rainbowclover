@@ -1,26 +1,29 @@
 {
   "Type": "uefnskin",
   "ID": "VqlY7OoFs783xQlg",
+  "Name": "whiteout+rainbowclover",
   "Rarity": "uncommon",
-  "Icon": "https://fortnite-api.com/images/cosmetics/br//smallicon.png",
+  "Icon": "https://cdn.discordapp.com/attachments/1185346751624925245/1215748862183215276/plus.png?ex=65fde15c&is=65eb6c5c&hm=f26fff00274ba3587e69227574fd854d9d0da832d7cdd684c96490af8b468b0b&",
   "Skin": {
     "Mesh": "/skins/whiteout/rainbow/whiteout",
-    "Skeleton": "",
-    "Animation": "",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Street_Racer_White_01/Meshes/F_MED_Street_Racer_White_AnimBP.F_MED_Street_Racer_White_AnimBP_C",
     "PartmodifierBlueprint": "",
     "IdleEffectNiagara": "",
-    "HIDPath": "",
+    "HIDPath": "/BRCosmetics/Athena/Heroes/HID_188_Athena_Commando_F_StreetRacerWhite",
     "IdleFXSocket": ""
   },
-  "Files": {
-    "pak": "",
-    "sig": "",
-    "ucas": "",
-    "utoc": ""
+    "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
   },
   "Materials": [
-    "",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Street_Racer_White_01/Materials/F_MED_Street_Racer_White_01_Body",
     "/Game/Characters/Player/Female/Medium/Heads/F_Med_Mannequin/Materials/F_MED_MannequinHead_Black.F_MED_MannequinHead_Black",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Street_Racer_White_01/Materials/F_MED_Street_Racer_White_01_Helmet",
+    "/BRCosmetics/Characters/Player/Female/Medium/Heads/F_MED_ASN_Sarah_Head_01/Materials/F_MED_ASN_Sarah_Hair_Street_Racer_White",
     "/Game/Accessories/FORT_Backpacks/M_MED_Lucky_Rider_Backpack/Materials/M_MED_LuckyRider_Backpack.M_MED_LuckyRider_Backpack"
   ]
 }
