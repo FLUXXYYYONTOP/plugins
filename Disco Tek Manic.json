@@ -1,0 +1,30 @@
+{
+  "Type": "uefnskin",
+  "ID": "kX3xYHg5szlzLXJ9",
+  "Name": "Disco Tek Manic",
+  "Description": "Show them you're ready to move.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_TacticalRed_Disco/smallicon.png",
+  "Skin": {
+    "Mesh": "",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Tactical_Red/Meshes/F_MED_Tactical_Red_AnimBP.F_MED_Tactical_Red_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/BRCosmetics/Athena/Heroes/Hero_TacticalRed_Disco",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Tactical_Red_Punk/Skins/Disco/Materials/M_Tactical_Red_Disco_Body.M_Tactical_Red_Disco_Body",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_HighTower_Tomato_Casual/Materials/M_VertexCrunch.M_VertexCrunch",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Tactical_Red_Punk/Skins/Disco/Materials/F_MED_TacticalRed_Disco_Head.F_MED_TacticalRed_Disco_Head",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Tactical_Red_Punk/Skins/Disco/Materials/M_Tactical_Red_Disco_Hair.M_Tactical_Red_Disco_Hair",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Tactical_Red_Punk/Skins/Disco/Materials/M_Tactical_Red_Disco_Mask.M_Tactical_Red_Disco_Mask"
+  ]
+}
