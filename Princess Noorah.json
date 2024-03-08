@@ -1,0 +1,32 @@
+{
+  "Type": "uefnskin",
+  "ID": "uq6ajKa8zAQM81tg",
+  "Name": "Princess Noorah",
+  "Description": "Protect your inner flame.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_PaperGlow/smallicon.png",
+  "Skin": {
+    "Mesh": "",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PaperGlow/Meshes/F_MED_PaperGlow_AnimBP.F_MED_PaperGlow_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/Game/Athena/Heroes/Hero_PaperGlow",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PaperGlow/Materials/MI_PaperGlow_Body.MI_PaperGlow_Body",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_Layla_Head/Materials/MI_Layla_Head.MI_Layla_Head",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_Layla_Head/Materials/MI_Layla_Eyes.MI_Layla_Eyes",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PaperGlow/Materials/MI_PaperGlow_FaceAcc.MI_PaperGlow_FaceAcc",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PaperGlow/Materials/MI_PaperGlow_FaceAcc_Mask.MI_PaperGlow_FaceAcc_Mask",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_Layla_Head/Materials/MI_Layla_Head.MI_Layla_Head",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_Layla_Head/Materials/MI_Layla_Eyes.MI_Layla_Eyes"
+  ]
+}

@@ -1,0 +1,28 @@
+ {
+  "Type": "uefnskin",
+  "ID": "MCBx0vk7k79XCf2k",
+  "Name": "Korra",
+  "Description": "The headstrong and rebellious Avatar striving for balance.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_PlantStand/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/wasser/wasserbändiger",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PlantStand_Cane/Meshes/F_MED_PlantStand_Cane_AnimBP.F_MED_PlantStand_Cane_AnimBP_C",
+    "PartmodifierBlueprint": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_ToonFE_Default.B_Athena_PartModifier_ToonFE_Default_C",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/Game/Athena/Heroes/Hero_PlantStand",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PlantStand_Cane/Materials/MI_PlantStand_Cane_Body.MI_PlantStand_Cane_Body",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PlantStand_Cane/Materials/MI_PlantStand_Cane_Head.MI_PlantStand_Cane_Head",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PlantStand_Cane/Materials/MI_PlantStand_Cane_FaceAcc.MI_PlantStand_Cane_FaceAcc"
+  ]
+}
