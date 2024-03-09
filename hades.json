@@ -1,0 +1,28 @@
+{
+  "Type": "uefnskin",
+  "ID": "t2OtZ4QmnIP4ZLL7",
+  "Name": "Hades",
+  "Description": "The overseer of the Underworld.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_DarkStance_Inferno/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/hades/untitled",
+    "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkStance_Inferno/Meshes/M_MED_DarkStance_Inferno_AnimBP.M_MED_DarkStance_Inferno_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/Game/Athena/Heroes/Hero_DarkStance_Inferno",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkStance_Inferno/Materials/MI_DarkStance_Inferno_Body.MI_DarkStance_Inferno_Body",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkStance_Inferno/Materials/MI_DarkStance_Inferno_Mask.MI_DarkStance_Inferno_Mask",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_DarkStance_Inferno/Materials/MI_DarkStance_Inferno_FaceAcc.MI_DarkStance_Inferno_FaceAcc"
+  ]
+}
