@@ -1,0 +1,30 @@
+{
+  "Type": "uefnskin",
+  "ID": "xQJmPr0ISIMnNkKr",
+  "Name": "Poseidon",
+  "Description": "Slurp-God of the sea. King of the beach.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_TideKing_Regal/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/poseidon/untitled",
+    "Skeleton": "/Game/Characters/Player/Male/Large/Base/SK_L_MALE_Base_Skeleton.SK_L_MALE_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Male/Large/Bodies/M_LRG_TideKing_Regal/Meshes/M_LRG_TideKing_Regal_AnimBP.M_LRG_TideKing_Regal_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/Game/Athena/Heroes/Hero_TideKing_Regal",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Male/Large/Bodies/M_LRG_TideKing_Regal/Materials/MI_TideKing_Regal_Body.MI_TideKing_Regal_Body",
+    "/Game/Characters/Player/Male/Large/Bodies/M_LRG_TideKing_Regal/Materials/MI_TideKing_Regal_inst.MI_TideKing_Regal_inst",
+    "/Game/Characters/Player/Male/Large/Bodies/M_LRG_TideKing_Regal/Materials/MI_LRG_TideKing_Regal_Head.MI_LRG_TideKing_Regal_Head",
+    "/Game/Characters/Player/Male/Large/Bodies/M_LRG_TideKing_Regal/Materials/MI_TideKing_Regal_FaceAcc.MI_TideKing_Regal_FaceAcc",
+    "/Game/Characters/Player/Male/Large/Bodies/M_LRG_TideKing_Regal/Materials/MI_TideKing_Regal_inst_faceacc.MI_TideKing_Regal_inst_faceacc"
+  ]
+}

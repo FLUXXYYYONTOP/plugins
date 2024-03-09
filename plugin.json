@@ -647,6 +647,16 @@
                     "Name": "Comet",
                     "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_BrightIon/smallicon.png",
                     "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/comet.json"
+                },
+                {
+                    "Name": "Poseidon",
+                    "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_TideKing_Regal/smallicon.png",
+                    "PluginURL": ""
+                },
+                {
+                    "Name": "Artemis",
+                    "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_SeleneCobra_Stride/smallicon.png",
+                    "PluginURL": ""
                 }
             ]
         }

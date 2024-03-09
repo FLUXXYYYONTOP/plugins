@@ -1,0 +1,29 @@
+{
+  "Type": "uefnskin",
+  "ID": "48ljbBHa3sI6D9xA",
+  "Name": "Artemis",
+  "Description": "Goddess of the moonlit hunt.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_SeleneCobra_Stride/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/artemis/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_SeleneCobra_Stride/Meshes/F_MED_SeleneCobra_Stride_AnimBP.F_MED_SeleneCobra_Stride_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/Game/Athena/Heroes/Hero_SeleneCobra_Stride",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_SeleneCobra_Stride/Materials/MI_Selene_Cobra_Stride_Body.MI_Selene_Cobra_Stride_Body",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_SeleneCobra_Stride/Materials/MI_SeleneCobra_Stride_Head.MI_SeleneCobra_Stride_Head",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_SeleneCobra_Stride/Materials/MI_Selene_Cobra_Stride_Eyes.MI_Selene_Cobra_Stride_Eyes",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_SeleneCobra_Stride/Materials/MI_Selene_Cobra_Stride_FaceAcc.MI_Selene_Cobra_Stride_FaceAcc"
+  ]
+}
