@@ -6,7 +6,7 @@
   "Rarity": "uncommon",
   "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_PaperGlow/smallicon.png",
   "Skin": {
-    "Mesh": "",
+    "Mesh": "/skins/noorah/untitled",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
     "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_PaperGlow/Meshes/F_MED_PaperGlow_AnimBP.F_MED_PaperGlow_AnimBP_C",
     "PartmodifierBlueprint": "",
