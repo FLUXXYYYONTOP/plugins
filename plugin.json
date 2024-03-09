@@ -621,17 +621,17 @@
                 {
                     "Name": "Prince anwar",
                     "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_PaperBlaze/smallicon.png",
-                    "PluginURL": ""
+                    "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/prince%20anwar.json"
                 },
                 {
                     "Name": "Aphrodite",
                     "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_LiftingAura_Wave/smallicon.png",
-                    "PluginURL": ""
+                    "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/Aphrodite.json"
                 },
                 {
                     "Name": "Odyssey",
                     "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_RankedOlympus/smallicon.png",
-                    "PluginURL": ""
+                    "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/Odyssey.json"
                 }
             ]
         }
