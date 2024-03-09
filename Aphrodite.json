@@ -1,0 +1,30 @@
+{
+  "Type": "uefnskin",
+  "ID": "tiuQP9SUGSNrH7tu",
+  "Name": "Aphrodite",
+  "Description": "Lead with your heart.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_LiftingAura_Wave/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/aphrodite/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_LiftingAura_Wave/Meshes/F_MED_LiftingAura_Wave_AnimBP.F_MED_LiftingAura_Wave_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/Game/Athena/Heroes/Hero_LiftingAura_Wave",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_LiftingAura_Wave/Materials/F_MED_LiftingAura_Wave_Body.F_MED_LiftingAura_Wave_Body",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_LiftingAura_Wave/Materials/F_MED_LiftingAura_Wave_Body_Glass.F_MED_LiftingAura_Wave_Body_Glass",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_LiftingAura_Wave/Materials/F_MED_LiftingAura_Wave_Head.F_MED_LiftingAura_Wave_Head",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_LiftingAura_Wave/Materials/F_MED_LiftingAura_Wave_Eyes.F_MED_LiftingAura_Wave_Eyes",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_LiftingAura_Wave/Materials/F_MED_LiftingAura_Wave_FaceAcc.F_MED_LiftingAura_Wave_FaceAcc"
+  ]
+}
