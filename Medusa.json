@@ -1,0 +1,29 @@
+{
+  "Type": "uefnskin",
+  "ID": "gVrbRXX7GauMRjZV",
+  "Name": "Medusa",
+  "Description": "Humanity's stone-hearted defender.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_ReptilianOcean_Sleek/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/medusa/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_ReptilianOcean_Sleek/Meshes/F_MED_ReptilianOcean_Sleek_AnimBP.F_MED_ReptilianOcean_Sleek_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_ReptilianOcean_Sleek/FX/NS_Character_ReptilianOcean_Snake_Idle.NS_Character_ReptilianOcean_Snake_Idle",
+    "HIDPath": "/Game/Athena/Heroes/Hero_ReptilianOcean_Sleek",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_ReptilianOcean_Sleek/Materials/MI_ReptilianOcean_Sleek_Body.MI_ReptilianOcean_Sleek_Body",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_ReptilianOcean_Sleek/Materials/MI_ReptilianOcean_Sleek_Head.MI_ReptilianOcean_Sleek_Head",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_ReptilianOcean_Sleek/Materials/MI_ReptilianOcean_Sleek_Eyes.MI_ReptilianOcean_Sleek_Eyes",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_ReptilianOcean_Sleek/Materials/MI_ReptilianOcean_Sleek_FaceAcc.MI_ReptilianOcean_Sleek_FaceAcc"
+  ]
+}
