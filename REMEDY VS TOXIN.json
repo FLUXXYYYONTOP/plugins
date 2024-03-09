@@ -1,0 +1,30 @@
+{
+  "Type": "uefnskin",
+  "ID": "G6N8zBsrvluq5r1D",
+  "Name": "Remedy Vs Toxin",
+  "Description": "Take your medicine.",
+  "Rarity": "uncommon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/CID_567_Athena_Commando_F_RebirthMedic/smallicon.png",
+  "Skin": {
+    "Mesh": "/skins/remedy/untitled",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Soldier/Meshes/F_MED_Rebirth_Soldier_AnimBP.F_MED_Rebirth_Soldier_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+    "HIDPath": "/Game/Athena/Heroes/HID_567_Athena_Commando_F_RebirthMedic",
+    "IdleFXSocket": ""
+  },
+  "Files": {
+    "pak": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.pak",
+    "sig": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.sig",
+    "ucas": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.ucas",
+    "utoc": "https://github.com/FLUXXYYYONTOP/uefn/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Rebirth_Medic/Materials/F_MED_Rebirth_Medic_Body.F_MED_Rebirth_Medic_Body",
+    "/Game/Accessories/Hats/Med_Rebirth_Medic_FaceAcc/Materials/F_MED_Rebirth_Medic_Hair.F_MED_Rebirth_Medic_Hair",
+    "/Game/Accessories/Hats/Med_Rebirth_Medic_FaceAcc/Materials/F_Med_Rebirth_Medic_Hat.F_Med_Rebirth_Medic_Hat",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Materials/F_MED_ASN_Starfish_Head_01_HairNone.F_MED_ASN_Starfish_Head_01_HairNone",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Materials/F_MED_ASN_Starfish_Head_01.F_MED_ASN_Starfish_Head_01"
+  ]
+}
