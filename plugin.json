@@ -666,7 +666,7 @@
                 {
                     "Name": "Cerberus",
                     "Icon": "https://fortnite-api.com/images/cosmetics/br/Character_GateHound_Spectral/smallicon.png",
-                    "PluginURL": ""
+                    "PluginURL": "https://github.com/FLUXXYYYONTOP/plugins/raw/main/cerberus.json"
                 }
             ]
         }
